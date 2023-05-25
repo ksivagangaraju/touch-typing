@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+.app-container {
+    background-color: #34A7DE;
+    color: #F4FCEC;
+    min-height: 100vh;
+    padding: 25px;
+}

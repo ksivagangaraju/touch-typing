@@ -1,0 +1,68 @@
+.keys-button-container {
+    width: 850px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.keys-button-line {
+    width: 100%;
+    display: flex;
+}
+
+.key-button {
+    width: 5.5%;
+    height: 48px;
+    background-color: #797981;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    color: white;
+    font-weight: 500;
+    border: 1px solid #797981;
+}
+
+.extra-width {
+    flex-grow: 2;
+}
+
+.small-extra-width {
+    width: 7%;
+}
+
+.red {
+    background-color: #ec6566;
+}
+
+.green {
+    background-color: #7dca1c;
+}
+
+.yellow {
+    background-color: #efe750;
+}
+
+.sky-blue {
+    background-color: #10d192;
+}
+
+.blue {
+    background-color: #8753ee;
+}
+
+.light-blue {
+    background-color: #53a3ed;
+}
+
+.orange {
+    background-color: #eeae4f;
+}
+
+.pink {
+    background-color: #ee54e9;
+}

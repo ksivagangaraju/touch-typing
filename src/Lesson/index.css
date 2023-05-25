@@ -1,0 +1,12 @@
+.lesson-container {
+    width: 100%;
+}
+
+.description {
+    font-family: 'Montserrat';
+    font-size: 18px;
+}
+
+.order-list {
+    line-height: 35px;
+}

@@ -1,0 +1,52 @@
+.typing-game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 850px;
+    max-width: 100%;
+    margin: auto;
+}
+
+.input-text-area {
+    width: 850px;
+    max-width: 100%;
+    margin: auto;
+    line-height: 35px;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    padding: 15px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.keys {
+    font-family: 'Montserrat';
+    font-size: 55px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.correct-key {
+    color: #04E474;
+}
+
+.yet-key {
+    color: #F4FCEC;
+}
+
+.ticking-time {
+    font-size: 28px;
+    align-self: flex-end;
+    font-weight: bold;
+    color: #06283E;
+    width: 120px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #F4FCEC;
+    text-align: center;
+}

@@ -1,0 +1,62 @@
+.app {
+  width: 1000px;
+  max-width: 100%;
+  margin: auto;
+}
+
+.heading {
+  font-size: 38px;
+  background-color: #0484CC;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  border-radius: 10px; 
+  font-family: "Montserrat";
+}
+
+.container {
+  background-color: #0484CC;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+}
+
+.inst {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 25px;
+  margin: 10px 0 28px 0;
+  height: 35px;
+}
+
+.inst:hover{
+  font-size: 28px;
+  }
+
+.img {
+  width: 850px;
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.button {
+  background-color: #F4FCEC;
+  color: #0484CC;
+  padding: 10px 32px 10px 32px;
+  font-family: "Roboto";
+  font-weight: 500;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  outline: none;
+  margin: 10px 0 20px 0;
+}
